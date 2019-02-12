@@ -6,9 +6,7 @@ public class Reto4Piramide {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        String lectura;
-        String espacios = "";
-        String asteriscos = "*";
+        String lectura, espacios = "", asteriscos = "*";
         int pirTam;
         
         System.out.println("Idique el tamaño de la piramide: ");
